@@ -1,6 +1,6 @@
 MySQL, PowerPoint
 
-📊 Customer Cohort Analysis Using SQL
+📊 Customer Retention & Cohort Analysis Using SQL
 
 This project performs cohort analysis on retail transaction data using pure SQL, focusing on understanding customer retention behavior and lifetime value (CLV) over time. The output includes SQL scripts and a PowerPoint presentation for clear storytelling and insights.
 
